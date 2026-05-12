@@ -2,6 +2,16 @@
 
 An ALPHA-focused firmware build for the open-source One ROM EEPROM replacement platform, with the goal of pushing it toward becoming one of the **world’s smallest and cheapest emulators**.
 
+## License
+
+This firmware is source-available.
+
+You are allowed to view, use, modify, and share it for non-commercial purposes only.
+
+You may not sell this firmware, sell modified versions of it, bundle it into a commercial product, or otherwise use it for commercial gain.
+
+See the `LICENSE` file for full terms.
+
 ## What One ROM is
 
 **One ROM** is an EEPROM replacement platform created by **Piers**. It was designed as a modern replacement for original EEPROM hardware, giving people a programmable alternative to older memory devices.
