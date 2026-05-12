@@ -1,0 +1,62 @@
+ALPHA OneROM Firmware License
+Version 1.0
+
+Copyright (c) 2026 ALPHA
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this firmware, source code, associated files, and documentation
+(collectively, the "Software"), to use, copy, modify, and share the Software,
+subject to the following conditions:
+
+1. Non-Commercial Use Only.
+The Software may be used, copied, modified, and shared solely for personal,
+educational, evaluation, research, and other non-commercial purposes.
+
+2. No Sale or Commercial Distribution.
+You may not sell, sublicense, commercially distribute, commercially host,
+bundle for sale, or otherwise use the Software or any modified version of the
+Software for commercial advantage or monetary compensation.
+
+3. No Commercial Derivatives.
+You may modify the Software for your own non-commercial use, but you may not
+sell, license, or commercially distribute modified versions, derivative works,
+or firmware builds based on the Software.
+
+4. Attribution Required.
+Any redistribution of the Software, in original or modified form, must include:
+   a. this license in full;
+   b. clear credit to ALPHA as the original author; and
+   c. a notice describing whether changes were made.
+
+Example attribution:
+"Based on ALPHA OneROM Firmware. Original project by ALPHA.
+Modified from the original source."
+
+5. No Trademark License.
+This license does not grant permission to use the names "ALPHA",
+"OneROM ALPHA", associated logos, branding, trade dress, or product identity
+except for truthful attribution describing the origin of the Software.
+
+6. No Removal of Notices.
+You may not remove or alter any copyright, attribution, license, or notice
+files included with the Software.
+
+7. Patent and Other Rights.
+No patent rights, trademark rights, or other intellectual property rights are
+granted under this license except the limited copyright license expressly
+stated above.
+
+8. Termination.
+Any use of the Software outside the scope of this license automatically
+terminates the rights granted under this license.
+
+9. No Warranty.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+10. Limitation of Liability.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
