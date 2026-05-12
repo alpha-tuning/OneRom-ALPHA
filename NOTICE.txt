@@ -1,0 +1,8 @@
+ALPHA OneROM Firmware
+Original Author: ALPHA
+
+This project is source-available for non-commercial use only.
+Commercial use, resale, and commercial redistribution are prohibited.
+
+Use of the ALPHA name, logo, or branding is not permitted except for factual
+attribution to the original project.
